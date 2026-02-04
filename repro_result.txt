@@ -1,0 +1,38 @@
+Response Status: 201
+Response Body: {
+  "message": "Profile saved successfully",
+  "profile": {
+    "userId": "69809389ccfebb48c0b1f664",
+    "fullName": "Repro User",
+    "location": {
+      "address": "Missing Coordinates",
+      "coordinates": []
+    },
+    "mission": "To crash the server",
+    "goal": "I have a startup",
+    "industries": [],
+    "experience": 0,
+    "role": "Co-Founder",
+    "profilePhoto": null,
+    "isVerified": false,
+    "verificationDocuments": [],
+    "discoverSettings": {
+      "maxDistance": 100,
+      "minAge": 18,
+      "maxAge": 65,
+      "preferredGoals": [],
+      "preferredSkills": [],
+      "preferredIndustries": [],
+      "goalOverride": null
+    },
+    "isActive": true,
+    "viewCount": 0,
+    "name": "Repro User",
+    "_id": "6980938aa18d829d9a035e07",
+    "skills": [],
+    "lastSeen": "2026-02-02T12:07:38.319Z",
+    "createdAt": "2026-02-02T12:07:38.322Z",
+    "updatedAt": "2026-02-02T12:07:38.322Z",
+    "__v": 0
+  }
+}

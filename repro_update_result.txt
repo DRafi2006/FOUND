@@ -1,0 +1,37 @@
+Response Status: 200
+Response Body: {
+  "success": true,
+  "message": "Profile updated successfully",
+  "profile": {
+    "location": {
+      "address": "Initial Address",
+      "coordinates": []
+    },
+    "discoverSettings": {
+      "maxDistance": 100,
+      "minAge": 18,
+      "maxAge": 65,
+      "preferredGoals": [],
+      "preferredSkills": [],
+      "preferredIndustries": [],
+      "goalOverride": null
+    },
+    "industries": [],
+    "experience": 0,
+    "role": "Co-Founder",
+    "profilePhoto": null,
+    "isVerified": false,
+    "verificationDocuments": [],
+    "viewCount": 0,
+    "_id": "6980974830b77e58e9d4db93",
+    "userId": "6980974730b77e58e9d4db8d",
+    "mission": "Updated Mission",
+    "goal": "I have a startup",
+    "isActive": true,
+    "skills": [],
+    "lastSeen": "2026-02-02T12:23:36.359Z",
+    "fullName": "Updated Name",
+    "updatedAt": "2026-02-02T12:23:36.363Z",
+    "__v": 1
+  }
+}

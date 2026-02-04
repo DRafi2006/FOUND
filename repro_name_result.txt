@@ -1,0 +1,37 @@
+Response Status: 201
+Response Body: {
+  "message": "Profile saved successfully",
+  "profile": {
+    "userId": "698093e6d348c9fd195a3af8",
+    "fullName": "Repro User",
+    "location": {
+      "address": "Test Address",
+      "coordinates": []
+    },
+    "mission": "Testing name validation",
+    "goal": "I have a startup",
+    "industries": [],
+    "experience": 0,
+    "role": "Co-Founder",
+    "profilePhoto": null,
+    "isVerified": false,
+    "verificationDocuments": [],
+    "discoverSettings": {
+      "maxDistance": 100,
+      "minAge": 18,
+      "maxAge": 65,
+      "preferredGoals": [],
+      "preferredSkills": [],
+      "preferredIndustries": [],
+      "goalOverride": null
+    },
+    "isActive": true,
+    "viewCount": 0,
+    "_id": "698093e74be0ecf402865d78",
+    "skills": [],
+    "lastSeen": "2026-02-02T12:09:11.112Z",
+    "createdAt": "2026-02-02T12:09:11.116Z",
+    "updatedAt": "2026-02-02T12:09:11.116Z",
+    "__v": 0
+  }
+}
